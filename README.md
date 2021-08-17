@@ -11,9 +11,7 @@ Prediction of student behavior has been a prominant area of research in learning
 * Construct classification models to predict student dropout and state validation metrics for the model
 * Compare classification models on appropriate metrics
 
-## Resources
-
-### Videos
+## Utilized the following resources
 
 [![Introduction to Prediction](https://img.youtube.com/vi/BqQR9n-Bolw/0.jpg)](https://youtu.be/BqQR9n-Bolw)
 
@@ -22,8 +20,6 @@ Prediction of student behavior has been a prominant area of research in learning
 [Jalayer Academy. (2015). R - Classification Trees (part 1 using C5.0)](https://www.youtube.com/watch?v=5NquIfQxpxk)
 
 [Grey, C.G.P. (2017). How Machines Learn.](https://www.youtube.com/watch?v=R9OHn5ZF4Uo)
-
-### Readings
 
 [Adhatrao, K., Gaykar, A., Dhawan, A., Jha, R., & Honrao, V. (2013). Predicting Students’ Performance Using ID3 and C4. 5 Classification Algorithms. International Journal of Data Mining & Knowledge Management Process, 3(5).](https://arxiv.org/ftp/arxiv/papers/1310/1310.2071.pdf)
 
